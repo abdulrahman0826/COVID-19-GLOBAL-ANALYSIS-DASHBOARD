@@ -19,3 +19,6 @@ _4. Data Source_
 _5. The project utilizes data sourced from the file:_
 COVID-19-global-data.csv: Contains daily reports of new cases and new deaths, alongside cumulative totals, organized by country and WHO region.
 Data Fields include: Date_reported, Country, Country_code, WHO_region, New_cases, Cumulative_cases, New_deaths, and Cumulative_deaths.n:
+
+**_OUTPUT_**
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1232a810-5308-40b9-9f0d-4707175a9112" />
